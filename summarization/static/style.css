@@ -1,0 +1,14 @@
+/* static/style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+textarea {
+    width: 100%;
+    height: 200px;
+}
+
+input[type="submit"] {
+    margin-top: 10px;
+}
+
